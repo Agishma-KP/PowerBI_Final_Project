@@ -1,14 +1,14 @@
 # PowerBI_Final_Project
 This Power BI project provides a comprehensive analysis of the company's financial performance. By visualizing key metrics and trends, this project enables data-driven insights to support strategic decision-making.
-Key Findings:
+# Key Findings:
 Overall Growth: The company has seen significant growth in both sales and profits from 2013 to 2014.
-Product Performance :
+# Product Performance :
 Top Performers: Paseo and VTT have shown strong growth in sales and profits.
 Room for Improvement: Montana's profit margin needs attention.
-Country Performance:
+# Country Performance:
 Strong Markets: Canada and Germany are top performers in terms of sales and profits.
 Underperforming Markets: The United States and Mexico have lower sales and profits.
-Recommendations:
+# Recommendations:
 Focus on High-Performing Products: Invest in Paseo and VTT to maximize their potential.
 Optimize Product Mix: Review the product lineup to ensure it aligns with market demand and profitability.
 Control Costs: Analyze costs for each product to identify areas for reduction.
